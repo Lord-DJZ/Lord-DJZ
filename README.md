@@ -27,8 +27,8 @@
         <li>Outside tech, I am into anime, gaming, and experimenting with new creative workflows</li>
       </ul>
     </td>
-    <td width="38%" align="center" valign="top">
-      <img src="https://user-images.githubusercontent.com/74038190/218265809-298cf362-076e-42fe-a107-37d98bd4b965.gif" width="200">
+    <td width="38%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
     </td>
   </tr>
 </table>
