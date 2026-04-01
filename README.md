@@ -28,7 +28,7 @@
       </ul>
     </td>
     <td width="38%" align="center" valign="top">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e8d30426-b3c1-4ae9-9bf1-15880afd93fd" width="380">
+      <img src="https://user-images.githubusercontent.com/74038190/218265809-298cf362-076e-42fe-a107-37d98bd4b965.gif" width="200">
     </td>
   </tr>
 </table>
