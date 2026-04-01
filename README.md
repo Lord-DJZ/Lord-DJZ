@@ -6,4 +6,6 @@
   <br />
   <br />
   <img src="./Assets/Images/gradient-divider.svg" alt="" width="1000" />
+  <br />
+  <h1>About Me</h1>
 </div>
