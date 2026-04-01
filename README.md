@@ -28,7 +28,7 @@
       </ul>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
+      <img src="https://user-images.githubusercontent.com/74038190/212284164-662b26f5-a2e4-49cb-b675-4af56e609afa.gif" width="300">
     </td>
   </tr>
 </table>
