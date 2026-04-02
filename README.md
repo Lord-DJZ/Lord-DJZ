@@ -163,18 +163,14 @@
   <tr>
     <td width="50%" valign="top">
       <h3>Sentinel Layer</h3>
-      <p>
-        A security-focused software concept aimed at building a stronger protection, monitoring, or validation layer for digital systems and applications.
-      </p>
+      <blockquote><i>A security-focused software concept aimed at building a stronger protection, monitoring, or validation layer for digital systems and applications.</i></blockquote>
       <p><b>Tech:</b> Python, JavaScript, TypeScript, GitHub, VS Code</p>
       <p><b>Why it matters:</b> It reflects my interest in building smarter and more reliable systems, especially projects that improve trust, safety, and system robustness.</p>
       <p><b>Status:</b> <code>In Development</code> <b>Repo:</b> Private <b>Demo:</b> Coming soon</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Lord-DJZ/uncertainty-first-ml">Uncertainty First ML</a></h3>
-      <p>
-        A machine learning and data science project exploring predictive systems with a stronger focus on uncertainty, analysis, and thoughtful model behavior.
-      </p>
+      <blockquote><i>A machine learning and data science project exploring predictive systems with a stronger focus on uncertainty, analysis, and thoughtful model behavior.</i></blockquote>
       <p><b>Tech:</b> Python, Jupyter, machine learning, data science, SQL, GitHub</p>
       <p><b>Why it matters:</b> It shows my interest in building ML systems that are not just accurate, but also reliable, explainable, and practically useful.</p>
       <p><b>Status:</b> <code>Public Project</code> <b>Demo:</b> Not available yet</p>
@@ -183,22 +179,35 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Lord-DJZ/verifylk">VerifyLK</a></h3>
-      <p>
-        A practical software project aimed at solving verification and trust-related workflows with a product mindset and real-world utility in mind.
-      </p>
+      <blockquote><i>A practical software project aimed at solving verification and trust-related workflows with a product mindset and real-world utility in mind.</i></blockquote>
       <p><b>Tech:</b> JavaScript, TypeScript, ReactJS, Python, GitHub</p>
       <p><b>Why it matters:</b> It represents my interest in building software that solves local, real-world problems instead of staying as theory or mock ideas.</p>
       <p><b>Status:</b> <code>Public Project</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>CareFlow LK</h3>
-      <p>
-        A healthcare-oriented software concept focused on improving care workflows, organization, and digital accessibility through a structured application system.
-      </p>
+      <blockquote><i>A healthcare-oriented software concept focused on improving care workflows, organization, and digital accessibility through a structured application system.</i></blockquote>
       <p><b>Tech:</b> JavaScript, TypeScript, ReactJS, Python, SQL, GitHub</p>
       <p><b>Why it matters:</b> It reflects my interest in using software to improve meaningful day-to-day systems where better tools can genuinely help people.</p>
       <p><b>Status:</b> <code>In Development</code> <b>Repo:</b> Private <b>Demo:</b> Coming soon</p>
     </td>
   </tr>
 </table>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+  <h1>Currently Building</h1>
+</div>
 
+<div align="center">
+  <h3>Rin AI</h3>
+  <blockquote><i>An AI-focused personal project centered on building a smarter, more useful assistant experience through practical workflows, prompt engineering, and experimentation with modern AI tools.</i></blockquote>
+  <p><b>Tech:</b> Python, TypeScript, JavaScript, prompt engineering, AI tooling, GitHub, VS Code</p>
+  <p><b>Why it matters:</b> It represents my direction as a builder, creating intelligent systems that are practical, creative, and user-focused.</p>
+  <p><b>Status:</b> <code>In Development</code> <b>Repo:</b> Private <b>Demo:</b> Coming soon</p>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
