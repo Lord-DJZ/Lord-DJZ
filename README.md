@@ -1,17 +1,6 @@
 <div align="center">
   <img src="./Assets/Images/github-header-banner (8).png" alt="Lord DJZ GitHub header banner" width="800" />
   <br />
-  <br />
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" alt="Top visual left" width="380" />
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Awesome workspace environment" width="380" />
-      </td>
-    </tr>
-  </table>
   <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="800">
 </div>
