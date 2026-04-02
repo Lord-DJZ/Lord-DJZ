@@ -1,8 +1,5 @@
 <div align="center">
   <img src="./Assets/Images/cfd112ba8b31f0751d71b969abb1bbdf.gif" alt="Lord DJZ GitHub header banner" width="900" />
-  <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300">
-  </div>
   <h1>Hey, I'm JZ &#128075;</h1>
   <p><i>Nice to meet you. I build practical software, explore creative AI workflows, and turn curiosity into real projects.</i></p>
   <img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="300">
