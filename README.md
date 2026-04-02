@@ -1,5 +1,11 @@
 <div align="center">
   <img src="./Assets/Images/cfd112ba8b31f0751d71b969abb1bbdf.gif" alt="Lord DJZ GitHub header banner" width="900" />
+  <div align="center">
+      <div align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="200">
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Awesome workspace environment" width="200" />
+      </div>
+  </table>
   <h1>Hey, I'm JZ &#128075;</h1>
   <p><i>Nice to meet you. I build practical software, explore creative AI workflows, and turn curiosity into real projects.</i></p>
   <img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="300">
@@ -156,12 +162,12 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Rin AI</h3>
+      <h3>Sentinel Layer</h3>
       <p>
-        An AI-focused personal project centered on building a smarter, more useful assistant experience through practical workflows, prompt engineering, and modern AI tooling.
+        A security-focused software concept aimed at building a stronger protection, monitoring, or validation layer for digital systems and applications.
       </p>
-      <p><b>Tech:</b> Python, TypeScript, JavaScript, prompt engineering, AI tooling, GitHub, VS Code</p>
-      <p><b>Why it matters:</b> It reflects the direction I want to grow in as a builder: creating intelligent systems that are practical, creative, and user-focused.</p>
+      <p><b>Tech:</b> Python, JavaScript, TypeScript, GitHub, VS Code</p>
+      <p><b>Why it matters:</b> It reflects my interest in building smarter and more reliable systems, especially projects that improve trust, safety, and system robustness.</p>
       <p><b>Status:</b> <code>In Development</code> <b>Repo:</b> Private <b>Demo:</b> Coming soon</p>
     </td>
     <td width="50%" valign="top">
