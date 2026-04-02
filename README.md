@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./Assets/Images/cfd112ba8b31f0751d71b969abb1bbdf.gif" alt="Lord DJZ GitHub header banner" width="900" />
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
+    <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300">
   </div>
   <h1>Hey, I'm JZ &#128075;</h1>
   <p><i>Nice to meet you. I build practical software, explore creative AI workflows, and turn curiosity into real projects.</i></p>
