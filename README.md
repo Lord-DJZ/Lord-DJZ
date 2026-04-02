@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="./Assets/Images/github-header-banner (8).png" alt="Lord DJZ GitHub header banner" width="600" />
+  <img src="./Assets/Images/github-header-banner (8).png" alt="Lord DJZ GitHub header banner" width="1000" />
   <br />
   <br />
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" alt="Top visual left" width="220" />
+        <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" alt="Top visual left" width="440" />
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Awesome workspace environment" width="220" />
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Awesome workspace environment" width="440" />
       </td>
     </tr>
   </table>
