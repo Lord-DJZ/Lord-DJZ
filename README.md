@@ -1,11 +1,8 @@
 <div align="center">
   <img src="./Assets/Images/cfd112ba8b31f0751d71b969abb1bbdf.gif" alt="Lord DJZ GitHub header banner" width="900" />
   <div align="center">
-      <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="200">
-        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Awesome workspace environment" width="200" />
-      </div>
-  </table>
+    <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
+  </div>
   <h1>Hey, I'm JZ &#128075;</h1>
   <p><i>Nice to meet you. I build practical software, explore creative AI workflows, and turn curiosity into real projects.</i></p>
   <img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="300">
@@ -203,6 +200,8 @@
 </table>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
   <h1>Currently Building</h1>
@@ -218,6 +217,53 @@
   <p><b>Status:</b> <code>In Development</code> <b>Repo:</b> Private <b>Demo:</b> Coming soon</p>
 </div>
 
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+  <h1>GitHub Stats</h1>
+  <p>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lord-DJZ&theme=high-contrast" alt="Lord-DJZ github activity graph" />
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="800">
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+  <h1>Connect With Me</h1>
+  <div>
+    <a href="https://www.instagram.com/itsdemuni/">
+      <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="90" alt="Instagram" />
+    </a>
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="90" alt="Discord" />
+    <a href="https://wa.me/qr/NIZFCMNPPHZPO1">
+      <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="90" alt="WhatsApp" />
+    </a>
+    <a href="mailto:demuni.j.zoysa@gmail.com">
+      <img src="./Assets/Images/Gmail.gif" width="90" alt="Gmail" />
+    </a>
+    <a href="https://www.youtube.com/@Nexus-u5h4m">
+      <img src="./Assets/Images/Youtube Logo Effect.gif" width="90" alt="YouTube" />
+    </a>
+  </div>
+  <p>
+    <sub><b>Instagram</b> &nbsp; | &nbsp; <b>Discord</b> &nbsp; | &nbsp; <b>WhatsApp</b> &nbsp; | &nbsp; <b>Gmail</b> &nbsp; | &nbsp; <b>YouTube</b></sub>
+  </p>
+  <p>
+    <sub><b>Discord:</b> <code>hello_world_123_1</code></sub>
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+  <h1>Final Thought</h1>
+  <p>
+    <i>"Life is not only about reaching the next place. It is about becoming someone worthy of every place you arrive."</i>
+  </p>
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="800">
+</div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
