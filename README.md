@@ -1,23 +1,20 @@
 <div align="center">
-  <img src="./Assets/Images/github-header-banner (8).png" alt="Lord DJZ GitHub header banner" width="800" />
-  <br />
-  <br />
+  <img src="./Assets/Images/cfd112ba8b31f0751d71b969abb1bbdf.gif" alt="Lord DJZ GitHub header banner" width="900" />
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e8d30426-b3c1-4ae9-9bf1-15880afd93fd" width="380">
+        <img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="200">
       </td>
       <td align="center">
         <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Awesome workspace environment" width="380" />
       </td>
     </tr>
   </table>
-  <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-</div>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"><br/>
+  <h1>Hey, I'm JZ &#128075;</h1>
+  <p><i>Nice to meet you. I build practical software, explore creative AI workflows, and turn curiosity into real projects.</i></p>
+  <img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="300">
+  <br />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
   <h1>About Me</h1>
 </div>
 
@@ -138,3 +135,74 @@
     <i>"A strong environment does more than run code. It gives ideas a place to grow, fail, and become something real."</i>
   </p>
 </div>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+<div align="center">
+ 
+  <h1>Creative AI Workflow</h1>
+</div>
+
+- Turning ideas into visuals through prompt engineering and iteration
+- Building `ComfyUI` flows for image and video generation
+- Experimenting with style, motion, mood, and output control
+- Using AI as a creative partner for exploration and rapid building
+- Shaping experiments into workflows that can actually be reused
+
+<div align="center">
+  <img src="./Assets/Images/AI animation.gif" alt="AI workflow animation" width="200" />
+</div>
+
+<p align="center"><i>"For me, AI is where imagination meets structure, and experiments become real output."</i></p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+  <h1>Featured Projects</h1>
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Rin AI</h3>
+      <p>
+        An AI-focused personal project centered on building a smarter, more useful assistant experience through practical workflows, prompt engineering, and modern AI tooling.
+      </p>
+      <p><b>Tech:</b> Python, TypeScript, JavaScript, prompt engineering, AI tooling, GitHub, VS Code</p>
+      <p><b>Why it matters:</b> It reflects the direction I want to grow in as a builder: creating intelligent systems that are practical, creative, and user-focused.</p>
+      <p><b>Status:</b> <code>In Development</code> <b>Repo:</b> Private <b>Demo:</b> Coming soon</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Lord-DJZ/uncertainty-first-ml">Uncertainty First ML</a></h3>
+      <p>
+        A machine learning and data science project exploring predictive systems with a stronger focus on uncertainty, analysis, and thoughtful model behavior.
+      </p>
+      <p><b>Tech:</b> Python, Jupyter, machine learning, data science, SQL, GitHub</p>
+      <p><b>Why it matters:</b> It shows my interest in building ML systems that are not just accurate, but also reliable, explainable, and practically useful.</p>
+      <p><b>Status:</b> <code>Public Project</code> <b>Demo:</b> Not available yet</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Lord-DJZ/verifylk">VerifyLK</a></h3>
+      <p>
+        A practical software project aimed at solving verification and trust-related workflows with a product mindset and real-world utility in mind.
+      </p>
+      <p><b>Tech:</b> JavaScript, TypeScript, ReactJS, Python, GitHub</p>
+      <p><b>Why it matters:</b> It represents my interest in building software that solves local, real-world problems instead of staying as theory or mock ideas.</p>
+      <p><b>Status:</b> <code>Public Project</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>CareFlow LK</h3>
+      <p>
+        A healthcare-oriented software concept focused on improving care workflows, organization, and digital accessibility through a structured application system.
+      </p>
+      <p><b>Tech:</b> JavaScript, TypeScript, ReactJS, Python, SQL, GitHub</p>
+      <p><b>Why it matters:</b> It reflects my interest in using software to improve meaningful day-to-day systems where better tools can genuinely help people.</p>
+      <p><b>Status:</b> <code>In Development</code> <b>Repo:</b> Private <b>Demo:</b> Coming soon</p>
+    </td>
+  </tr>
+</table>
+
