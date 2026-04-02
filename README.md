@@ -1,15 +1,5 @@
 <div align="center">
   <img src="./Assets/Images/cfd112ba8b31f0751d71b969abb1bbdf.gif" alt="Lord DJZ GitHub header banner" width="900" />
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="200">
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Awesome workspace environment" width="380" />
-      </td>
-    </tr>
-  </table>
   <h1>Hey, I'm JZ &#128075;</h1>
   <p><i>Nice to meet you. I build practical software, explore creative AI workflows, and turn curiosity into real projects.</i></p>
   <img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="300">
